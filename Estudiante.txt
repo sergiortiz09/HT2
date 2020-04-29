@@ -1,0 +1,5 @@
+1	sergio	10
+2	carlos	8
+3	luis	9
+4	ana	9
+5	luisa	10
